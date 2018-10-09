@@ -1,0 +1,15 @@
+{
+  "apps" : [{
+	"name"        : "location-estimator",
+	"script"      : "./index.js",
+	"watch"       : true,
+	"env": {
+	  "NODE_ENV": "dev"
+	},
+	"env_production" : {
+	  "NODE_ENV": "production"
+	},
+	"instances"  : 0,
+	"exec_mode"  : "cluster"
+  }]
+}

@@ -1,0 +1,28 @@
+# dependencies
+node_modules
+build/
+dist/
+config/prod.json
+config/local.json
+config/dev.json
+config/prod.json
+config/production.json
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+dev.json
+
+.DS_Store
+.vscode
+yarn-error.log
+yarn.lock
+
+build/
+
+package-lock.json
