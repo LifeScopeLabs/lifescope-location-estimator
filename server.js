@@ -3,7 +3,7 @@ import config from 'config';
 import moment from 'moment';
 import mongodb from 'mongodb';
 
-import uuid from './lib/util/uuid';
+import uuid from './lib/util/uuid.js';
 
 let mongo;
 
