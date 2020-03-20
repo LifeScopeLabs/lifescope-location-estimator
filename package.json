@@ -10,7 +10,7 @@
 	},
 	"main": "/server.js",
 	"engines": {
-		"node": "8.*",
+		"node": "12.*",
 		"yarn": "1.*"
 	},
 	"scripts": {
