@@ -176,9 +176,6 @@ async function dequeue() {
 							}
 						}
 					}
-					else {
-						console.log('No location for event with datetime ' + datetime.toString());
-					}
 				}
 			});
 
