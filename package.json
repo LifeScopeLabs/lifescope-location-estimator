@@ -95,7 +95,7 @@
 		"math": "0.0.3",
 		"moment": "^2.24.0",
 		"mongodb": "^3.5.5",
-		"mongoose": "^5.9.5",
+		"mongoose": "^6.0.4",
 		"node-uuid": "^1.4.8",
 		"qs": "^6.9.1",
 		"socket.io": "^2.3.0",
